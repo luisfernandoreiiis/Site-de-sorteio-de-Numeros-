@@ -1,0 +1,24 @@
+.img{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+
+.sorteio {
+    display: flex table-row-group;
+    justify-content: space-evenly;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+    height: 300px;
+    margin: 3 px;
+    
+   }
+
+footer {
+    background-color: #fa7d08;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+   }
